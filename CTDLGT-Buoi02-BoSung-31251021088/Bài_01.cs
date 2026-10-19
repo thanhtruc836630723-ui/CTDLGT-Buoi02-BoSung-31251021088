@@ -7,7 +7,7 @@ namespace CTDLGT_Buoi02_BoSung_31251021088
 {
     internal class Bài_01
     {
-        public static void Main43(string[] args)
+        public static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
             //Nhập mảng và ép kiểu
@@ -91,7 +91,7 @@ namespace CTDLGT_Buoi02_BoSung_31251021088
             Console.WriteLine("Mảng sau khi đảo: ");
             for (int i = 0; i < n; i++)
             {
-                Console.Write(arr[i]);
+                Console.Write(arr[i] );
             }
             Console.WriteLine( );
 

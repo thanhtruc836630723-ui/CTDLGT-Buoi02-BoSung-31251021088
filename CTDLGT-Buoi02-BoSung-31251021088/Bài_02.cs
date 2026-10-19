@@ -28,7 +28,7 @@ namespace CTDLGT_Buoi02_BoSung_31251021088
         {
 
         }
-        public static void Main(string[] args)
+        public static void Main2222(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
             CheckNull();
